@@ -23,3 +23,4 @@ You can refer to the  [slides](https://docs.google.com/presentation/d/1V56BTICBn
 1. Let's tell Git about this change: Add the file & then commit with a meaningful message.
 1. Our repo has been updated! Let's share the update: Push the latest back to GitHub.
 1. Update the introduction content and repeat the process (add, commit, push).
+things aren't always black and blue
